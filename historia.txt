@@ -1,2 +1,3 @@
 Mi nombre es Wendy
 Naci en La Paz, Bolivia 
+Aprendo a manejar GIT para no temerle
