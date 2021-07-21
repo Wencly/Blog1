@@ -1,5 +1,6 @@
 Mi nombre es Wendy
 Naci en La Paz, Bolivia 
+Anita tiene 50 años y nacio en internet
 Aprendo a manejar GIT para no temerle
 
 
